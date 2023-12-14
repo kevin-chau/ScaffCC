@@ -1,6 +1,6 @@
 SHELL=/bin/bash
 PERL=/usr/bin/perl
-PYTHON=/usr/bin/python
+PYTHON=/usr/bin/python3
 
 ROOT=".."
 DIRNAME=""
